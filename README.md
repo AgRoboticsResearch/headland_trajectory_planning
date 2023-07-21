@@ -1,2 +1,2 @@
 # headland_trajectory_planning
-This repo is includes headland space modeling and trajectory planning for autonomous agricultural vehicle in the orchard.
+This repo includes headland space modeling and trajectory planning for autonomous agricultural vehicles in the orchard. The code is to be released soon!!
