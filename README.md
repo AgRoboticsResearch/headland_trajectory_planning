@@ -28,7 +28,7 @@ pip install -r requirments.txt
 
 - Modeling of the headland space in the geometric shape
 <p align="center">
-    <img src="misc/headland-model.png" width="600" height="337" />
+    <img src="misc/headland-model.png" />
 </p>
 
 - Implementation of Classic planner of headland turning
