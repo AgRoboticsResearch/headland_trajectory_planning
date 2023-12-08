@@ -2,7 +2,6 @@
 
 This repo includes headland space modeling and trajectory planning for autonomous agricultural vehicles in the orchard. The whole environment is modeled with geometric shape. The headland planning algorithm is very similar to the valet parking problem in the clusttered environment. We leverages the [OBCA trajector](https://github.com/XiaojingGeorgeZhang/OBCA)  planner applied in [Apollo-Baidu](https://github.com/ApolloAuto/apollo). 
 
-The techinique details of the repo is introduced in our [JFR journal paper](https://www.researchgate.net/publication/372858867_Optimization-Based_Motion_Planning_for_Autonomous_Agricultural_Vehicles_Turning_in_Constrained_Headlands) under final reviewing.
 
 We applied python to leverage the convinience of Jupyter-Notebook to introduce the algorithm in details and try the best to optimize the Python code to have it run efficiently. [Casadi](https://github.com/casadi/casadi) is applied to solve the modeled non-linear optimzation problem.
 
