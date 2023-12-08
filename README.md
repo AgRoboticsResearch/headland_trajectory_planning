@@ -1,6 +1,6 @@
 # Headland_trajectory_planning
 
-This repo includes headland space modeling and trajectory planning for autonomous agricultural vehicles in the orchard. The whole environment is modeled with geometric shape. The headland planning algorithm is very similar to the valet parking problem in the clusttered environment. We leverages the [OBCA trajector](https://github.com/XiaojingGeorgeZhang/OBCA)  planner applied in [Apollo-Baidu](https://github.com/ApolloAuto/apollo). 
+This repo includes headland space modeling and trajectory planning for autonomous agricultural vehicles in the orchard. The whole environment is modeled with geometric shape. The headland planning algorithm is very similar to the valet parking problem in the clusttered environment. We leverages the [OBCA trajectory](https://github.com/XiaojingGeorgeZhang/OBCA) planner applied in [Apollo-Baidu](https://github.com/ApolloAuto/apollo). 
 
 
 We applied python to leverage the convinience of Jupyter-Notebook to introduce the algorithm in details and try the best to optimize the Python code to have it run efficiently. [Casadi](https://github.com/casadi/casadi) is applied to solve the modeled non-linear optimzation problem.
@@ -13,7 +13,7 @@ We applied python to leverage the convinience of Jupyter-Notebook to introduce t
 
 If our repo helps your projects either from industry or academia, please cite our paper and star our repo. Thank you! You are very welcome to reach us for a discussion in the agricultural robotics!!
 
-__Author__: [Chen Peng](https://hic.zju.edu.cn/2023/0904/c72951a2797324/page.htm), [Peng Wei](https://alexwei92.github.io/), [Zhenghao Fei](https://hic.zju.edu.cn/2023/0904/c72951a2797279/page.htm), Yuankai Zhu, and Stavros G. Vougioukas
+__Author__: [Chen Peng](https://hic.zju.edu.cn/2023/0904/c72951a2797324/page.htm), [Peng Wei](https://alexwei92.github.io/), [Zhenghao Fei](https://hic.zju.edu.cn/2023/0904/c72951a2797279/page.htm), Yuankai Zhu, and [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/)
 
 __Paper__: [Optimization based Motion Planning for AAV in Constrained Headland](https://www.researchgate.net/publication/372858867_Optimization-Based_Motion_Planning_for_Autonomous_Agricultural_Vehicles_Turning_in_Constrained_Headlands), Chen Peng*, Peng Wei*, Zhenghao Fei, Yuankai Zhu and Stavros G. Vougioukas
 
