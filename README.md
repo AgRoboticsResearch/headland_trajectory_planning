@@ -14,7 +14,7 @@ We applied python to leverage the convinience of Jupyter-Notebook to introduce t
 
 If our repo helps your projects either from industry or academia, please cite our paper and star our repo. Thank you! You are very welcome to reach us for a discussion in the agricultural robotics!!
 
-__Author__: [Chen Peng](https://hic.zju.edu.cn/2023/0904/c72951a2797324/page.htm), [Peng Wei](https://alexwei92.github.io/) and [Zhenghao Fei](https://hic.zju.edu.cn/2023/0904/c72951a2797279/page.htm).
+__Author__: [Chen Peng](https://hic.zju.edu.cn/2023/0904/c72951a2797324/page.htm), [Peng Wei](https://alexwei92.github.io/), [Zhenghao Fei](https://hic.zju.edu.cn/2023/0904/c72951a2797279/page.htm) and Yuankai Zhu.
 
 __Paper__: [Optimization based Motion Planning for AAV in Constrained Headland](https://www.researchgate.net/publication/372858867_Optimization-Based_Motion_Planning_for_Autonomous_Agricultural_Vehicles_Turning_in_Constrained_Headlands), Chen Peng*, Peng Wei*, Zhenghao Fei, Yuankai Zhu and Stavros G. Vougioukas
 
