@@ -53,6 +53,6 @@ pip install -r requirments.txt
     </p>
 </a>
 
-For any technical issues, please contact Chen Peng (chen.peng@zju.edu.cn) or Peng Wei (penwei@ucdavis.edu).
+For any technical issues, please contact Chen Peng (penchen@ucdavis.edu) or Peng Wei (penwei@ucdavis.edu).
 
 For commercial inquiries, please contact Chen Peng (chen.peng@zju.edu.cn) or Zhenghao Fei (zfei@zju.edu.cn).
