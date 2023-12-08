@@ -45,7 +45,7 @@ pip install -r requirments.txt
    <img src="misc/pruner-plan.png" />
 </p>
 
-## Videos on real robot
+## Videos of testing on the real robot
 - Tested on real robot in the vineyard of UC, Davis on [youtube](https://www.youtube.com/watch?v=sf0uDFwpSfo).
 <a href="https://www.youtube.com/watch?v=QQS0AM3iOmc" target="blank">
     <p align="center">
