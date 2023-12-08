@@ -52,3 +52,7 @@ pip install -r requirments.txt
         <img src="misc/video-cover.png" width="600" height="337" />
     </p>
 </a>
+
+For any technical issues, please contact Chen Peng (chen.peng@zju.edu.cn) or Peng Wei (penwei@ucdavis.edu).
+
+For commercial inquiries, please contact Chen Peng (chen.peng@zju.edu.cn) or Zhenghao Fei (zfei@zju.edu.cn).
