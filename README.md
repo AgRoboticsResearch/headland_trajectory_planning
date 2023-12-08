@@ -42,7 +42,7 @@ pip install -r requirments.txt
 
 - Headland turning with implements(Prunner)
 <p align="center">
-   <img src="misc/pruner-plan.png" />
+   <img src="misc/mower-plan.png" />
 </p>
 
 ## Videos of testing on the real robot
