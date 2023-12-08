@@ -1,9 +1,8 @@
 # Headland_trajectory_planning
 
-This repo includes headland space modeling and trajectory planning for autonomous agricultural vehicles in the orchard. The whole environment is modeled with geometric shape. The headland planning algorithm is very similar to the valet parking problem in the clusttered environment. We leverages the [OBCA trajectory](https://github.com/XiaojingGeorgeZhang/OBCA) planner applied in [Apollo-Baidu](https://github.com/ApolloAuto/apollo). 
+This repo introduces a method of headland space modeling and trajectory planning for autonomous agricultural vehicles (AAV) operating in the orchard. The environment is modeled with geometric shapes, and the headland turning is solved similarly to the valet parking problem in a cluttered environment. We leverage the [OBCA](https://github.com/XiaojingGeorgeZhang/OBCA) trajectory planner which has been applied in [Apollo-Baidu](https://github.com/ApolloAuto/apollo). 
 
-
-We applied python to leverage the convinience of Jupyter-Notebook to introduce the algorithm in details and try the best to optimize the Python code to have it run efficiently. [Casadi](https://github.com/casadi/casadi) is applied to solve the modeled non-linear optimzation problem.
+We applied Python to leverage the convenience of Jupyter-Notebook to introduce the algorithm in detail and have optimized the Python code thoroughly to have it run efficiently. In our algorithm, we used [Casadi](https://github.com/casadi/casadi) to solve the modeled nonlinear optimization problem.
 
 ## Updates
 
@@ -11,41 +10,41 @@ We applied python to leverage the convinience of Jupyter-Notebook to introduce t
 
 ## About
 
-If our repo helps your projects either from industry or academia, please cite our paper and star our repo. Thank you! You are very welcome to reach us for a discussion in the agricultural robotics!!
+If our repo helps your project from either industry or academia, please cite our paper and star our repo. Besides, you are welcome to contact us for a discussion in agricultural robotics!!
 
 __Author__: [Chen Peng](https://hic.zju.edu.cn/2023/0904/c72951a2797324/page.htm), [Peng Wei](https://alexwei92.github.io/), [Zhenghao Fei](https://hic.zju.edu.cn/2023/0904/c72951a2797279/page.htm), Yuankai Zhu, and [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/)
 
-__Paper__: [Optimization based Motion Planning for AAV in Constrained Headland](https://www.researchgate.net/publication/372858867_Optimization-Based_Motion_Planning_for_Autonomous_Agricultural_Vehicles_Turning_in_Constrained_Headlands), Chen Peng*, Peng Wei*, Zhenghao Fei, Yuankai Zhu and Stavros G. Vougioukas
+__Paper__: [Optimization-Based Motion Planning for Autonomous Agricultural Vehicles Turning in Constrained Headlands](https://arxiv.org/abs/2308.01117), Chen Peng*, Peng Wei*, Zhenghao Fei, Yuankai Zhu and Stavros G. Vougioukas (submitted to Journal of Field Robotics)
 
-## How to start
+## How to run
 
-- Install dependency
+- Install the python dependency
 ```bash
 pip install -r requirments.txt
 ```
-- Try the code step by step from [Jupyter Notebook](https://github.com/AgRoboticsResearch/headland_trajectory_planning/test)
+- Run the code in [Jupyter Notebook](https://github.com/AgRoboticsResearch/headland_trajectory_planning/test) step by step.
 
 ## Repo Features
 
-- Modeling of the headland space in the geometric shape
+- Modeling of the headland space in geometric shapes
 <p align="center">
     <img src="misc/headland-model.png" />
 </p>
 
-- Implementation of Classic planner of headland turning
+- Classic planner headland turning results
 <p align="center">
     <img src="misc/Fish-Tail-Turn.png" />
     <img src="misc/Circle-Back-Turn.png" />
     <img src="misc/Omega-Turn.png" />
 </p>
 
-- Headland turning with implements(Prunner)
+- Proposed headland turning results (with implement)
 <p align="center">
-   <img src="misc/mower-plan.png" />
+   <img src="misc/mower-plan.png" width="500" />
 </p>
 
-## Videos of testing on the real robot
-- Tested on real robot in the vineyard of UC, Davis on [youtube](https://www.youtube.com/watch?v=sf0uDFwpSfo).
+## Supplementary
+- Tested on a real robot within the vineyard at UC Davis. See our [YouTube](https://www.youtube.com/watch?v=sf0uDFwpSfo) video.
 <a href="https://www.youtube.com/watch?v=sf0uDFwpSfo" target="blank">
     <p align="center">
         <img src="misc/video-cover.png" width="600" height="337" />
