@@ -46,7 +46,7 @@ pip install -r requirments.txt
 
 ## Videos of testing on the real robot
 - Tested on real robot in the vineyard of UC, Davis on [youtube](https://www.youtube.com/watch?v=sf0uDFwpSfo).
-<a href="https://www.youtube.com/watch?v=QQS0AM3iOmc" target="blank">
+<a href="https://www.youtube.com/watch?v=sf0uDFwpSfo" target="blank">
     <p align="center">
         <img src="misc/video-cover.png" width="600" height="337" />
     </p>
