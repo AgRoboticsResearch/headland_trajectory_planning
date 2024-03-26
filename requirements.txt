@@ -1,0 +1,13 @@
+# python requirments
+# pip install -r requirements.txt
+pypoman>=0.5.4
+shapely>=2.0.1
+matplotlib>=3.7.1
+scipy>=1.10.1
+pyyaml>=6.0
+catkin_pkg>=0.5.2
+scikit-spatial>=7.0.0
+heapdict>=1.0.1
+casadi>=3.6.3
+rdp>=0.8
+dubins>=1.0.1
