@@ -14,7 +14,7 @@ If our repo helps your project from either industry or academia, please cite our
 
 __Author__: [Chen Peng](https://hic.zju.edu.cn/2023/0904/c72951a2797324/page.htm), [Peng Wei](https://alexwei92.github.io/), [Zhenghao Fei](https://hic.zju.edu.cn/2023/0904/c72951a2797279/page.htm), Yuankai Zhu, and [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/)
 
-__Paper__: [Optimization-Based Motion Planning for Autonomous Agricultural Vehicles Turning in Constrained Headlands](https://arxiv.org/abs/2308.01117), Chen Peng*, Peng Wei*, Zhenghao Fei, Yuankai Zhu and Stavros G. Vougioukas (submitted to Journal of Field Robotics)
+[__Paper__:](https://arxiv.org/abs/2308.01117) Peng, C., Wei, P., Fei, Z., Zhu, Y., & Vougioukas, S. G. (2023). Optimization‐based motion planning for autonomous agricultural vehicles turning in constrained headlands. Journal of Field Robotics.
 
 ## How to run
 
