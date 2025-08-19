@@ -17,11 +17,18 @@ We applied Python to leverage the convenience of Jupyter-Notebook to introduce t
 
 ## How to run
 
-1. Install the python dependency
+1. Install system dependencies:
 ```bash
-pip install -r requirments.txt
+sudo apt-get update
+sudo apt-get install -y libcdd-dev libgmp-dev
 ```
-2. Run the code in [Jupyter Notebook](https://github.com/AgRoboticsResearch/headland_trajectory_planning/test) step by step.
+
+2. Install python libraries:
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the code in [Jupyter Notebook](https://github.com/AgRoboticsResearch/headland_trajectory_planning/test) step by step.
 
 
 ## Features
