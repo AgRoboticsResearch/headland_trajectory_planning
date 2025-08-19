@@ -2,6 +2,7 @@
 
 [![Wiley](https://img.shields.io/badge/Wiley-rob.22374-blue)](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22374)
 [![arXiv](https://img.shields.io/badge/arXiv-2308.01117-b31b1b.svg)](https://arxiv.org/abs/2308.01117)
+![Path Planning](https://img.shields.io/badge/Category-Path%20Planning-teal)
 
 This repo introduces a method of headland space modeling and trajectory planning for autonomous agricultural vehicles (AAV) operating in the orchard. The environment is modeled with geometric shapes, and the headland turning is solved similarly to the valet parking problem in a cluttered environment. We leverage the [OBCA](https://github.com/XiaojingGeorgeZhang/OBCA) trajectory planner which has been applied in [Apollo-Baidu](https://github.com/ApolloAuto/apollo). 
 
